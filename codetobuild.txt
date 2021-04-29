@@ -1,0 +1,2 @@
+code a project and use git to manage
+it should b a game
